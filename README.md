@@ -148,34 +148,8 @@ Container-Fleet-Commercial-Finance-Analytics/
 │   └── forecast_scenarios.png
 │
 └── README.md
+```
 
-Container-Fleet-Commercial-Finance-Analytics/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   └── 01_explore_shipping_data.ipynb
-│
-├── sql/
-│   ├── 01_create_database_and_tables.sql
-│   ├── 02_load_and_clean_data.sql
-│   ├── 03_create_views.sql
-│   └── 04_business_analysis_queries.sql
-│
-├── powerbi/
-│   └── Container_Fleet_Commercial_Finance_Analytics.pbix
-│
-├── excel/
-├── documentation/
-├── images/
-│   ├── executive_overview.png
-│   ├── revenue_margin.png
-│   ├── fleet_utilisation.png
-│   └── forecast_scenarios.png
-│
-└── README.md
 
 ## Power BI Dashboard
 
@@ -184,7 +158,7 @@ The Power BI report was designed as a management reporting solution, moving from
 ### 1. Executive Overview
 
 
-![Executive Overview](images/executive_overview.png
+![Executive Overview](images/executive_overview.png)
 
 
 The Executive Overview provides management with a consolidated view of commercial performance.
